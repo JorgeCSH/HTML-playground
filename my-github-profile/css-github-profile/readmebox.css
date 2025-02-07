@@ -1,0 +1,15 @@
+.boxshape {
+  /* Border setup */
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 6px;
+  border-color: #3d444d; 
+  max-width: 1390px;
+  /* Box base margin (from the inside) */
+  display: grid;
+  padding: 24px;
+  vertical-align: top;
+  /* Fonts (probably arial is the only one working) */
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+}
+
