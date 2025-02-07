@@ -6,7 +6,7 @@ For a long time, I have had basic knowledge of HTML and CSS. However, over the l
 
 ## Index
 
-1. github-readme: This directory contains a version of my GitHub README created with HTML. It's a basic version that I started with. While the original is in a markdown file, recreating it with HTML and CSS was (and still is, depending on the time) a personal goal.  
+1. my-github-profile: This directory contains a version of my GitHub README created with HTML. It's a basic version that I started with. While the original is in a markdown file, recreating it with HTML and CSS was (and still is, depending on the time) a personal goal.  
 
 2. Still cooking.
 
